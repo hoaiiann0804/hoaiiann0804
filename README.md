@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Nguyen Hoai An
 
 ## 🌱 About Me
-# Hi! 👋 I'm Nguyen Hoai An
+
 Aspiring Frontend Developer | College Student  
 Passionate about building responsive web apps with ReactJS, JavaScript, and Tailwind CSS.  
 Proactive learner, eager to create real-world projects and improve frontend skills.
