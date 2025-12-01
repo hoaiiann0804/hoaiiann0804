@@ -68,7 +68,7 @@ Proactive learner, eager to contribute to **real-world projects**.
 - **GitHub:** [Fashion_Ecommerce](https://github.com/hoaiiann0804/Fashion_Ecommerce)
 
 ### Mini E-commerce with AI Chatbot
-**Role:** Fullstack Developer | 07-09/2025  
+**Role:** Fullstack Developer | 07-11/2025  
 **Technologies:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge)  
 - Integrated AI chatbot & payment API with fallback solutions.  
 - **GitHub:** [E-Commerce-Mini-with-AI-Chatbot](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot)
