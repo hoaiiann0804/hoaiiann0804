@@ -1,9 +1,10 @@
 # Hi! 👋 I'm Nguyen Hoai An
 
 ## 🌱 About Me
-Aspiring Frontend Developer | College Student  
-Passionate about building responsive web apps with **ReactJS**, **JavaScript**, and **Tailwind CSS**.  
-Proactive learner, eager to contribute to **real-world projects**.
+Aspiring **Backend / Fullstack Developer** | College Student  
+Focused on building **RESTful APIs** with **Node.js & Express**.  
+Experienced in designing database schemas, implementing **search, filter, pagination**,  
+and integrating **payment systems** in e-commerce projects.
 
 ---
 
@@ -19,6 +20,18 @@ Proactive learner, eager to contribute to **real-world projects**.
 
 ## 🛠️ Technical Skills
 
+### Backend / Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- RESTful API design
+- JWT Authentication & Authorization
+- Database design & modeling
+- Search, filter, pagination
+- Order & payment flow integration
+
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,11 +41,7 @@ Proactive learner, eager to contribute to **real-world projects**.
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-### Backend / Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- API integration & state management
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -54,21 +63,37 @@ Proactive learner, eager to contribute to **real-world projects**.
 
 ## 📂 Projects
 
-### Movie Web App
-**Role:** Frontend Developer | 08/2024  
-**Technologies:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)  
-- Built responsive UI, movie search functionality.  
-- **Demo:** [Live Link](https://movie-app-reactjs-pink.vercel.app)  
-- **GitHub:** [MOVIE_APP_REACTJS](https://github.com/hoaiiann0804/MOVIE_APP_REACTJS)
+### Mini E-commerce with AI Chatbot
+**Role:** Backend / Fullstack Developer | 07–11/2025  
+
+- Designed REST APIs for products, categories, and orders
+- Implemented search, filter, and pagination logic
+- Built order & payment flow with fallback handling
+- Integrated AI chatbot with backend services
+- Designed database schema for e-commerce domain
+
+**Technologies:** Node.js, Express, PostgreSQL, React, TypeScript  
+**GitHub:** [E-Commerce-Mini-with-AI-Chatbot](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot)
+
+---
 
 ### Amethyst – Fashion E-commerce
-**Role:** Frontend Developer | 03-06/2025  
-**Technologies:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge)  
-- Developed cart & checkout modules, integrated frontend with backend APIs.  
-- **GitHub:** [Fashion_Ecommerce](https://github.com/hoaiiann0804/Fashion_Ecommerce)
+**Role:** Frontend Developer (Backend Integration) | 03–06/2025  
 
-### Mini E-commerce with AI Chatbot
-**Role:** Fullstack Developer | 07-11/2025  
-**Technologies:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge)  
-- Integrated AI chatbot & payment API with fallback solutions.  
-- **GitHub:** [E-Commerce-Mini-with-AI-Chatbot](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot)
+- Developed cart & checkout modules
+- Integrated frontend with backend APIs
+- Handled product listing and order flow
+
+**Technologies:** React, Tailwind CSS, TypeScript  
+**GitHub:** [Fashion_Ecommerce](https://github.com/hoaiiann0804/Fashion_Ecommerce)
+
+---
+
+### Movie Web App
+**Role:** Frontend Developer | 08/2024  
+
+- Built responsive UI and movie search functionality
+
+**Technologies:** React, CSS  
+**Demo:** https://movie-app-reactjs-pink.vercel.app  
+**GitHub:** [MOVIE_APP_REACTJS](https://github.com/hoaiiann0804/MOVIE_APP_REACTJS)
