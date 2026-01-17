@@ -64,7 +64,7 @@ and integrating **payment systems** in e-commerce projects.
 ## 📂 Projects
 
 ### Mini E-commerce with AI Chatbot
-**Role:** Backend / Fullstack Developer | 07–11/2025  
+**Role:** Backend / Fullstack Developer | 09-2025 - present
 
 - Designed REST APIs for products, categories, and orders
 - Implemented search, filter, and pagination logic
@@ -87,13 +87,3 @@ and integrating **payment systems** in e-commerce projects.
 **Technologies:** React, Tailwind CSS, TypeScript  
 **GitHub:** [Fashion_Ecommerce](https://github.com/hoaiiann0804/Fashion_Ecommerce)
 
----
-
-### Movie Web App
-**Role:** Frontend Developer | 08/2024  
-
-- Built responsive UI and movie search functionality
-
-**Technologies:** React, CSS  
-**Demo:** https://movie-app-reactjs-pink.vercel.app  
-**GitHub:** [MOVIE_APP_REACTJS](https://github.com/hoaiiann0804/MOVIE_APP_REACTJS)
