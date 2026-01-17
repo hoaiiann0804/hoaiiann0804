@@ -63,7 +63,7 @@ and integrating **payment systems** in e-commerce projects.
 
 ## 📂 Projects
 
-### Mini E-commerce with AI Chatbot
+### Mini E-commerce Platform
 **Role:** Backend / Fullstack Developer | 09-2025 - present
 
 - Designed REST APIs for products, categories, and orders
@@ -77,7 +77,7 @@ and integrating **payment systems** in e-commerce projects.
 
 ---
 
-### Amethyst – Fashion E-commerce
+### Amethyst – Fashion E-commerce Platform
 **Role:** Frontend Developer (Backend Integration) | 03–06/2025  
 
 - Developed cart & checkout modules
