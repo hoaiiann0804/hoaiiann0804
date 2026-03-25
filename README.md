@@ -63,26 +63,40 @@ and integrating **payment systems** in e-commerce projects.
 
 ## 📂 Projects
 
-### Mini E-commerce Platform
-**Role:** Backend / Fullstack Developer | 09-2025 - present
+### 🚀 Mini E-commerce Platform
+**Role:** Backend / Fullstack Developer | 09-2025 - Present  
 
-- Designed REST APIs for products, categories, and orders
-- Implemented search, filter, and pagination logic
-- Built order & payment flow with fallback handling
-- Integrated AI chatbot with backend services
-- Designed database schema for e-commerce domain
+- Designed and implemented a **modular backend system** exposing RESTful APIs for core e-commerce workflows (authentication, product, cart, orders, payments), ensuring **clear separation of concerns**.
 
-**Technologies:** Node.js, Express, PostgreSQL, React, TypeScript  
+- Built **JWT-based authentication and RBAC authorization** to enforce secure access control between users and administrators.
+
+- Designed a **normalized PostgreSQL database schema (20+ tables)** with foreign keys and indexing to ensure **data integrity** and optimize query performance.
+
+- Implemented **search, filtering, and pagination mechanisms** to efficiently handle large datasets and improve API response consistency.
+
+- Integrated **Stripe payment gateway** with webhook handling to process asynchronous payment events and maintain consistent order states.
+
+- Developed **centralized error handling and request validation middleware**, reducing duplicated logic and improving maintainability.
+
+- Handled **edge cases** such as invalid tokens, failed payments, and missing data to improve system robustness.
+
+- Containerized the system using **Docker Compose** to ensure consistent development environments.
+
+**Technologies:** Node.js, Express, PostgreSQL, React, TypeScript, Docker  
 **GitHub:** [E-Commerce-Mini-with-AI-Chatbot](https://github.com/hoaiiann0804/E-Commerce-Mini-with-AI-Chatbot)
 
 ---
 
-### Amethyst – Fashion E-commerce Platform
-**Role:** Frontend Developer (Backend Integration) | 03–06/2025  
+### 👗 Amethyst – Fashion E-commerce Platform
+**Role:** Frontend Developer (Backend Integration) | 03-2025 – 06-2025  
 
-- Developed cart & checkout modules
-- Integrated frontend with backend APIs
-- Handled product listing and order flow
+- Developed frontend modules including **product listing, cart, and checkout flows**, ensuring smooth user interaction.
+
+- Integrated frontend with backend APIs, ensuring **consistent data flow and API contract alignment**.
+
+- Implemented **client-side validation and error handling**, reducing invalid requests and improving user experience.
+
+- Collaborated with backend developers to validate request/response formats and improve integration stability.
 
 **Technologies:** React, Tailwind CSS, TypeScript  
 **GitHub:** [Fashion_Ecommerce](https://github.com/hoaiiann0804/Fashion_Ecommerce)
