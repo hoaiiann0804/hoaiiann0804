@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Nguyen Hoai An
 
 ## 🌱 About Me
-Aspiring **Backend** | College Student  
+Aspiring **Backend**
 Focused on building **RESTful APIs** with **Node.js & Express**.  
 Experienced in designing database schemas, implementing **search, filter, pagination**,  
 and integrating **payment systems** in e-commerce projects.
