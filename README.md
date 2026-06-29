@@ -1,132 +1,166 @@
 # Hi, I'm Nguyen Hoai An 👋
 
-## Backend-oriented Fullstack Developer
+## Backend Developer
 
-I am a recent IT graduate focused on building practical web applications with **Node.js, Express.js, PostgreSQL, RESTful APIs, and React.js**.
+I am a recent IT graduate focused on building backend systems with **ASP.NET Core, Node.js, SQL Server, PostgreSQL, and RESTful APIs**.
 
-My main interest is backend development, especially designing API workflows, database schemas, authentication flows, and business logic for real product features. I also work with React.js on the frontend to integrate APIs and build complete user flows.
+My primary interest is backend engineering—designing business workflows, API contracts, relational databases, authorization models, and transactional processing that keep applications reliable and maintainable as they evolve.
 
-I focus on building systems that are clear, maintainable, and practical, with attention to **data consistency, checkout reliability, account protection, and deployment workflows**.
+I also use React.js to integrate backend services and build complete end-to-end web applications when required.
 
 ---
 
 ## Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hoaiiann0804@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/hoaiiann0804)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hoaiiann0804/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoaiiann0804@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoaiiann0804)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoaiiann0804/)
 
 📍 Ho Chi Minh City, Vietnam
 
 ---
 
-## Technical Skills
+# Technical Skills
 
-### Backend
+## Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
-* RESTful API design and integration
-* Authentication with JWT access/refresh tokens
-* Request validation and centralized error handling
-* Role-based access control basics
-* Business logic for checkout, order, payment, and admin workflows
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-
-* Relational database design
-* Transactions and data consistency
-* Foreign keys and table relationships
-* Search, filtering, and pagination
-* Basic MySQL knowledge
-
-### Frontend
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-* API integration with React.js
-* State management with Redux Toolkit / RTK Query
-* Building reusable UI components
-* Handling loading, error, and form states
-
-### Tools and Deployment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
-
-* Git and GitHub workflow
-* API testing with Postman
-* API documentation with Swagger
-* Local development setup with Docker
-* Deployment with Vercel, Render, and Neon
+- RESTful API design
+- Business workflow implementation
+- Authentication and authorization
+- Database transaction handling
+- Request validation and centralized error handling
 
 ---
 
-## Featured Projects
+## Database
 
-### Mini E-commerce Platform
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Role:** Backend-oriented Fullstack Developer
-**Timeline:** Sept 2025 - Present
+- Relational database design
+- Database transactions
+- Data integrity
+- Foreign-key relationships
+- Search, filtering, and pagination
+
+---
+
+## Frontend
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+- API integration with React.js
+- Building reusable UI components
+- State management
+- Form handling and user interaction
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+- Git & GitHub workflow
+- API testing with Postman
+- API documentation with Swagger/OpenAPI
+- Docker-based local development
+- Deployment with Vercel, Render, and Neon
+
+---
+
+# Featured Projects
+
+## Mini E-commerce Platform
+
+**Role:** Backend Developer
+
+**Timeline:** Sept 2025 – May 2026
+
 **Tech Stack:** Node.js, Express.js, PostgreSQL, Sequelize, React.js, Docker
 
-A fullstack e-commerce application built to practice real product workflows such as product browsing, cart, checkout, payment, order management, admin operations, and transactional emails.
+A full-stack e-commerce application built to transform real purchasing workflows into maintainable backend services and reliable customer-facing experiences.
 
-#### Key Contributions
+### Engineering Highlights
 
-* Built and deployed a fullstack e-commerce system with **React.js customer pages** and **100+ RESTful API endpoints** to support shopping flows from product browsing to checkout, payment, and order management.
+- Translated purchasing workflows into reusable backend services supporting product management, ordering, inventory, and administration.
 
-* Designed a **20+ table PostgreSQL relational schema** to keep users, products, carts, orders, payments, reviews, warranty records, and stock data consistent and easier to extend.
+- Designed a normalized relational database with 20+ tables to preserve data integrity across products, customers, inventory, and orders.
 
-* Improved checkout reliability using **PostgreSQL transactions**, stock validation, and controlled order creation logic to reduce overselling and incomplete order data risks.
+- Eliminated inventory overselling during concurrent purchases through database transactions and row-level locking.
 
-* Implemented account protection with **JWT access/refresh tokens**, email verification, password reset, rate limiting, and account lockout to reduce abuse risks on user-sensitive actions.
+- Delivered 100+ RESTful APIs with standardized validation and error handling to keep business rules centralized.
 
-* Supported deployment, API maintainability, and user communication with **Vercel, Render, Neon**, Swagger documentation, GitHub Actions checks, and **5 transactional email flows**.
+**GitHub**
 
-**GitHub:** [Mini E-commerce Platform](https://github.com/hoaiiann0804/Mini-E-commerce-Platform)
-**Live Demo:** [shopmini.io.vn](https://www.shopmini.io.vn/)
+https://github.com/hoaiiann0804/Mini-E-commerce-Platform
+
+**Live Demo**
+
+https://www.shopmini.io.vn/
 
 ---
 
-### Amethyst - E-commerce Web Application
+## Internal Maintenance Management System
+
+**Role:** Backend Developer
+
+**Timeline:** Jun 2026 – Present
+
+**Tech Stack:** ASP.NET Core Web API, Entity Framework Core, SQL Server, Docker
+
+A backend-focused maintenance management system designed to replace manual equipment issue tracking with standardized workflows and policy-driven access control.
+
+### Engineering Highlights
+
+- Replaced manual maintenance coordination with a structured ticket workflow spanning issue assignment, progress tracking, and resolution.
+
+- Separated authorization policies from application logic to simplify permission management without changing business workflows.
+
+- Protected workflow consistency through a server-side state machine and complete audit trail for every ticket transition.
+
+- Improved development consistency using Docker while optimizing ticket queries to reduce unnecessary database access.
+
+**GitHub**
+
+https://github.com/hoaiiann0804/internal-maintenance-management-system
+
+---
+
+## Amethyst Fashion E-commerce
 
 **Role:** Frontend Developer
-**Timeline:** Mar 2025 - Jun 2025
-**Tech Stack:** React.js, REST API, Tailwind CSS
 
-A fashion e-commerce frontend project focused on building customer-facing shopping pages and integrating them with backend APIs.
+**Timeline:** Mar 2025 – Jun 2025
 
-#### Key Contributions
+**Tech Stack:** React.js, Tailwind CSS, REST API
 
-* Developed a React.js e-commerce frontend that connected product listing, product detail, authentication, cart, and order pages into a complete shopping flow with backend APIs.
+Built customer-facing shopping experiences and integrated frontend pages with backend REST APIs as part of a graduation project.
 
-* Built reusable React components and used Git branches/pull requests to keep frontend changes organized and easier to review.
+**GitHub**
 
-**GitHub:** [Amethyst Fashion E-commerce Platform](https://github.com/hoaiiann0804/Amethyst-Fashion-E-commerce-Platform)
+https://github.com/hoaiiann0804/Amethyst-Fashion-E-commerce-Platform
 
 ---
 
-## Current Focus
+# Current Focus
 
-* Strengthening backend fundamentals with Node.js, NestJS, PostgreSQL, and REST API design
-* Improving database design, transactions, authentication, and authorization
-* Building deployable projects that reflect real product workflows
-* Practicing clean, maintainable code and better documentation
+- Building backend systems with ASP.NET Core and Node.js
+- Improving API design, authorization, and transactional workflows
+- Designing maintainable relational database models
+- Building production-style backend applications with Docker
 
 ---
 
-## Language
+# Language
 
-* English: Able to read technical documentation and communicate basic technical ideas
+- English: Comfortable reading technical documentation, API specifications, and GitHub discussions.
