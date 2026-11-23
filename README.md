@@ -1,6 +1,6 @@
 # Hi, I'm Nguyen Hoai An 👋
 
-## Backend Developer
+## Backend Developer | Full Stack Developer
 
 I am a recent IT graduate focused on building backend systems with **ASP.NET Core, Node.js, SQL Server, PostgreSQL, and RESTful APIs**.
 
